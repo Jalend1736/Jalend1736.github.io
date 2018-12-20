@@ -8,10 +8,10 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+Hey It's me Jalen. What your at is one of my pieces of my code that helps make my flag.What i'm telling this code to do is to make
+shape3 = place-image(star(25, "solid", "white"),
+  230, 100,
+  shape2)
 
 ## Current output
 
